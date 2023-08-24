@@ -1,0 +1,86 @@
+a:active {background-color: brown;
+    opacity: 0.6;
+    color: blue;transition: 0.5s;}
+
+    header {
+        display: block;
+        text-align: center;
+    
+    }
+
+    
+    a:hover {
+        background-color: rgb(11, 221, 64);
+        border-radius: 8px;
+        opacity: 1;
+        border:none;
+        transition: 0.5s;
+        color: white;}
+
+    a {
+        margin: 15px;
+        text-decoration: none;
+        color: green;
+        padding: 5px;
+    }
+
+    header img {
+            padding-bottom:20px;
+        }
+
+        .mainmenu {
+            padding-bottom: 80px;
+            padding-top: 80px;
+        }
+        .secondmenu {
+            padding-bottom: 80px;
+        }
+        .thirdmenu {
+            padding-bottom: 80px;
+        }
+        .fourthmenu {
+            padding-bottom: 80px;
+        }
+        
+        .webbody {
+            word-spacing: 5px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 15px;
+            padding-bottom: 10px;
+            padding-top: 20px;
+        }
+        .webbody p {
+            text-indent: 25px;
+            
+        }
+        .propritorsname {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: rgb(28, 177, 28);
+            margin-bottom: 0px;
+        }
+        .prudent img {
+            width: 300px;
+            height: 300px;
+            align-items: center;
+            
+        }
+        
+        body { 
+            margin-left:20px;
+            
+        }
+        header img {
+            padding-bottom:20px;
+        }
+        
+         .proo  {
+            margin-top:0px;
+         } 
+        
+        .prudent{
+            text-align: center;
+        }
+        .prudentism {
+            color: grey;
+            line-height: 2rem;
+        }

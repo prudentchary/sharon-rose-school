@@ -1,0 +1,37 @@
+header img {
+    padding-bottom: 20px;
+}
+
+header {
+    display: block;
+    text-align: center;
+}
+
+
+a {
+    margin: 15px;
+    text-decoration: none;
+    color: green;
+    padding: 5px;
+
+}
+
+a:hover { 
+    
+    background-color: rgb(11, 221, 64);
+    border-radius: 8px;
+    opacity: 1;
+    border:none;
+    transition: 0.5s;
+    color: white;
+}
+
+a:active {
+    background-color: brown;
+    opacity: 0.6;
+    color: blue;
+    transition: 0.5s;
+}
+body{
+    margin-left: 20px;
+}

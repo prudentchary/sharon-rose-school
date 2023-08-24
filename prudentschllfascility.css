@@ -1,0 +1,82 @@
+header img {
+    padding-bottom: 20px;
+}
+
+header {
+    display: block;
+    text-align: center;
+
+}
+
+
+ header a {
+   margin: 15px;
+   text-decoration: none;
+   color: green;
+   padding: 5px;
+
+}
+
+header a:hover {
+    background-color: rgb(11, 221, 64);
+    border-radius: 8px;
+    opacity: 1;
+    border:none;
+    transition: 0.5s;
+    color: white;
+}
+
+a:active {background-color: brown;
+    opacity: 0.6;
+    color: blue;transition: 0.5s;
+}
+.fascility1{
+    text-align: center;
+}
+.paragragh1 {
+    color: rgb(95, 87, 87);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.imagecontainer{
+    object-fit:cover;
+}
+
+.information {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+    
+}
+
+.never{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-top: 1%;
+    margin-bottom: 50px;
+}
+
+.download {
+    background-color: rgb(43, 38, 38);
+    color: white;
+    padding: 10px;
+}
+.table-container {
+    border: 1px solid black;
+}
+
+.greencolor a{
+    color: rgb(61, 248, 61);
+    text-decoration: none;
+}
+
+.mines {
+   margin-left: 150px;
+   margin-right: 150px; 
+}
+body{
+    margin-left: 20px;
+}
+.prudentchary{
+    object-fit: contain;
+}
